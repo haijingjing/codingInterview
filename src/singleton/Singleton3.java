@@ -1,3 +1,5 @@
+package singleton;
+
 //双检锁/双重校验锁。DCL，即 double-checked locking
 public class Singleton3 {
     private Singleton3(){}

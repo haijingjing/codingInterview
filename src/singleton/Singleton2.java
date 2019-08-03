@@ -1,3 +1,5 @@
+package singleton;
+
 //懒汉式：线程安全但效率低
 public class Singleton2 {
     private Singleton2(){}

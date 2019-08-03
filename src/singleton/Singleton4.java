@@ -1,3 +1,5 @@
+package singleton;
+
 //饿汉式：线程安全，但会造成内存浪费
 public class Singleton4 {
     private Singleton4(){};

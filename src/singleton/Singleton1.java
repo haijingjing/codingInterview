@@ -1,3 +1,5 @@
+package singleton;
+
 //懒汉式：线程不安全
 public class Singleton1 {
     private Singleton1(){}
